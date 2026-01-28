@@ -251,4 +251,4 @@ def generate_predictions(train_file, test_file, output_file):
 
 if __name__ == '__main__':
     # Generate predictions
-    generate_predictions("train_100k_withratings.csv", "test_100k_withoutratings.csv", "results.csv")
+    generate_predictions("train_100k_withratings.csv", "test_100k_withoutratings.csv", "predictions.csv")
