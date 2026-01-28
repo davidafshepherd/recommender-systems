@@ -1,2 +1,2 @@
-# recommender-systems
+# Recommender Systems
 Example.
